@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CoE Booking</string>
+    <string name="nameapp">CoE Working Space Reservation</string>
+    <string name="login">LOGIN</string>
+    <string name="queue">RESERVATION QUEUE</string>
+    <string name="reservation">RESERVATION</string>
+    <string name="notication">NOTIFICATION</string>
+    <string name="calendar">Calendar</string>
+    <string name="tv_regulation">REGULATION</string>
+    <string name="tv_id">ID</string>
+</resources>
